@@ -18,7 +18,7 @@ Welcome to my daily coding practice repository 🚀
 | ----- | ---------------- | ------ |
 | Day 1 | Palindrome Check | ✅      |
 | Day 2 | Find Maximum     | ✅      |
-| Day 3 | Count Vowels     | ⏳      |
+| Day 3 | Count Vowels     | ✅     |
 | Day 4 | Reverse String   | ⏳      |
 | Day 5 | Sum of Digits    | ⏳      |
 
