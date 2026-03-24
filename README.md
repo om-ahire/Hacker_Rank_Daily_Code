@@ -21,6 +21,8 @@ Welcome to my daily coding practice repository 🚀
 | Day 3 | Count Vowels     | ✅     |
 | Day 4 | Reverse String   | ✅      |
 | Day 5 | Loops            |  ✅
+| Day 6 | Lets Review           |  ✅
+| Day 7 | Arrays            |  ✅
 
 ---
 
