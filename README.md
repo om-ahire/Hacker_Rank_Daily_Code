@@ -23,6 +23,7 @@ Welcome to my daily coding practice repository 🚀
 | Day 5 | Loops            |  ✅
 | Day 6 | Lets Review           |  ✅
 | Day 7 | Arrays            |  ✅
+| Day 8 | Dictionaries and Maps           |  ✅
 
 ---
 
