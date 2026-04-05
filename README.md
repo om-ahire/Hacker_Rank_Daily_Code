@@ -26,6 +26,12 @@ Welcome to my daily coding practice repository 🚀
 | Day 8 | Dictionaries and Maps           |  ✅|
 | Day 9 |  Binary Numbers           |  ✅|
 | Day 10 |  2D Arrays           |  ✅|
+| Day 11 |  Recursion          |  ✅|
+| Day 12 |  Inheritance          |  ✅|
+
+
+
+
 ---
 
 ## 🧠 Approach Style
