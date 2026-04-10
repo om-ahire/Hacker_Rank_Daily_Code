@@ -28,6 +28,17 @@ Welcome to my daily coding practice repository 🚀
 | Day 10 |  2D Arrays           |  ✅|
 | Day 11 |  Recursion          |  ✅|
 | Day 12 |  Inheritance          |  ✅|
+| Day 12 |  Inheritance          |  ✅|
+
+| Day 13 |  Abstract Classes          |  ✅|
+
+| Day 14 |  Scope         |  ✅|
+| Day 15 |  Linked List          |  ✅|
+| Day 16 |  Exception          |  ✅|
+| Day 17 |  More Exceptions          |  ✅|
+| Day 18 |  Queue And Stack          |  ✅|
+| Day 19 |  Interfaces         |  ✅|
+
 
 
 
