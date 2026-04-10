@@ -12,36 +12,37 @@ Welcome to my daily coding practice repository 🚀
 
 * Python 🐍
 
-## 📅 Progress Tracker
+# 🚀 30 Days of Code – Progress Tracker
 
-| Day   | Problem          | Status |
-| ----- | ---------------- | ------ |
-| Day 1 | Palindrome Check | ✅      |
-| Day 2 | Find Maximum     | ✅      |
-| Day 3 | Count Vowels     | ✅     |
-| Day 4 | Reverse String   | ✅      |
-| Day 5 | Loops            |  ✅
-| Day 6 | Lets Review           |  ✅
-| Day 7 | Arrays            |  ✅
-| Day 8 | Dictionaries and Maps           |  ✅|
-| Day 9 |  Binary Numbers           |  ✅|
-| Day 10 |  2D Arrays           |  ✅|
-| Day 11 |  Recursion          |  ✅|
-| Day 12 |  Inheritance          |  ✅|
-| Day 12 |  Inheritance          |  ✅|
+> “Consistency is what turns average into excellence.”
 
-| Day 13 |  Abstract Classes          |  ✅|
+---
 
-| Day 14 |  Scope         |  ✅|
-| Day 15 |  Linked List          |  ✅|
-| Day 16 |  Exception          |  ✅|
-| Day 17 |  More Exceptions          |  ✅|
-| Day 18 |  Queue And Stack          |  ✅|
-| Day 19 |  Interfaces         |  ✅|
+## 📅 Progress Overview
 
+| Day   | Problem                  | Status |
+|-------|-------------------------|--------|
+| Day 1 | Palindrome Check        | ✅     |
+| Day 2 | Find Maximum            | ✅     |
+| Day 3 | Count Vowels            | ✅     |
+| Day 4 | Reverse String          | ✅     |
+| Day 5 | Loops                   | ✅     |
+| Day 6 | Let’s Review            | ✅     |
+| Day 7 | Arrays                  | ✅     |
+| Day 8 | Dictionaries & Maps     | ✅     |
+| Day 9 | Binary Numbers          | ✅     |
+| Day 10 | 2D Arrays              | ✅     |
+| Day 11 | Recursion              | ✅     |
+| Day 12 | Inheritance            | ✅     |
+| Day 13 | Abstract Classes       | ✅     |
+| Day 14 | Scope                  | ✅     |
+| Day 15 | Linked List            | ✅     |
+| Day 16 | Exception Handling     | ✅     |
+| Day 17 | More Exceptions        | ✅     |
+| Day 18 | Queue & Stack          | ✅     |
+| Day 19 | Interfaces             | ✅     |
 
-
-
+---
 
 ---
 
