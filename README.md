@@ -42,7 +42,7 @@ Welcome to my daily coding practice repository 🚀
 | Day 18 | Queue & Stack          | ✅     |
 | Day 19 | Interfaces             | ✅     |
 | Day 20 | Sorting         | ✅     |
-
+| Day 21| Genrics         | ✅     |
 ---
 
 ---
