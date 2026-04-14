@@ -1,0 +1,65 @@
+#include <stdio.h>
+#include <stdlib.h>
+typedef struct Node{
+    struct Node* left;
+    struct Node* right;
+    int data;
+}Node;
+Node* newNode(int data){
+    Node* node=(Node*)malloc(sizeof(Node));
+    node->left=node->right=NULL;
+    node->data=data;
+    return node;
+}
+
+int getHeight(Node* root){
+  //Write your code here
+  // Base case: an empty tree has a height of -1
+    if (root == NULL) {
+        return -1;
+    }
+
+    // Recursively find the height of each subtree
+    int leftHeight = getHeight(root->left);
+    int rightHeight = getHeight(root->right);
+
+    // The height of the node is 1 + the max of its subtrees
+    if (leftHeight > rightHeight) {
+        return leftHeight + 1;
+    } else {
+        return rightHeight + 1;
+    }
+
+}
+
+
+Node* insert(Node* root,int data){
+    if(root==NULL)
+        return newNode(data);
+    else{
+        Node* cur;
+        if(data<=root->data){
+            cur=insert(root->left,data);
+            root->left=cur;                
+        }
+        else{
+            cur=insert(root->right,data);
+            root->right=cur;
+        }
+        
+    }
+    return root;
+}
+int main(){
+    Node* root=NULL;
+    int T,data;
+    scanf("%d",&T);
+    while(T-->0){
+        scanf("%d",&data);
+        root=insert(root,data);
+    }
+    int height=getHeight(root);
+    printf("%d",height);
+    return 0;
+    
+}
