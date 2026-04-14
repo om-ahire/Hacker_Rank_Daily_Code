@@ -43,6 +43,8 @@ Welcome to my daily coding practice repository 🚀
 | Day 19 | Interfaces             | ✅     |
 | Day 20 | Sorting         | ✅     |
 | Day 21| Genrics         | ✅     |
+| Day 22| Binary Search Tree         | ✅     |
+
 ---
 
 ---
