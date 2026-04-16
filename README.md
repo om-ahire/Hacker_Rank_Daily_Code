@@ -44,6 +44,10 @@ Welcome to my daily coding practice repository 🚀
 | Day 20 | Sorting         | ✅     |
 | Day 21| Genrics         | ✅     |
 | Day 22| Binary Search Tree         | ✅     |
+| Day 23| BST Level-Oreder Traversal         | ✅     |
+| Day 24| More Linked List         | ✅     |
+
+
 
 ---
 
