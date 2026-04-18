@@ -47,6 +47,8 @@ Welcome to my daily coding practice repository 🚀
 | Day 23| BST Level-Oreder Traversal         | ✅     |
 | Day 24| More Linked List         | ✅     |
 | Day 25| Running Time and Complexity        | ✅     |
+| Day 26| Nested Logic         | ✅     |
+
 
 
 
